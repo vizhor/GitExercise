@@ -1,2 +1,6 @@
 line1, from master
+<<<<<<< HEAD
 line2, from animal
+=======
+line2, from human
+>>>>>>> human
